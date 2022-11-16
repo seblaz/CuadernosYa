@@ -42,7 +42,7 @@
         "typeface-poppins": "^0.0.54",
         "velocity-animate": "^1.5.2",
         "webpack": "^4.17.1",
-        "webpack-cli": "^3.3.10",
+        "webpack-cli": "^3.3.12",
         "webpack-sources": "^1.4.3"
     },
     "dependencies": {
